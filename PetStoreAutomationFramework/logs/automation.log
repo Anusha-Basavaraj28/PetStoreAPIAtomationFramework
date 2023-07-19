@@ -99,3 +99,11 @@
 11:13:11.245 [main] INFO  com.anusha.test.UserTest2 - **********user updated**********
 11:13:11.247 [main] INFO  com.anusha.test.UserTest2 - **********deleting user**********
 11:13:11.880 [main] INFO  com.anusha.test.UserTest2 - **********user deleted**********
+13:27:19.510 [main] INFO  com.anusha.test.UserTest2 - **********Creating user**********
+13:27:21.454 [main] INFO  com.anusha.test.UserTest2 - **********User created**********
+13:27:21.462 [main] INFO  com.anusha.test.UserTest2 - **********Reading user**********
+13:27:22.285 [main] INFO  com.anusha.test.UserTest2 - **********User info displayed**********
+13:27:22.287 [main] INFO  com.anusha.test.UserTest2 - **********updating user**********
+13:27:23.038 [main] INFO  com.anusha.test.UserTest2 - **********user updated**********
+13:27:23.039 [main] INFO  com.anusha.test.UserTest2 - **********deleting user**********
+13:27:23.263 [main] INFO  com.anusha.test.UserTest2 - **********user deleted**********
